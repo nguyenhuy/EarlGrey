@@ -23,51 +23,51 @@
  *  @endcode
  *    OR if your project doesn't use modules:
  *  @code
- *    #import <EarlGrey/EarlGrey.h>
+ *    #import "EarlGrey.h"
  *  @endcode
  *
  *  To learn more, check out: http://github.com/google/EarlGrey
  */
 
-#import <EarlGrey/GREYAction.h>
-#import <EarlGrey/GREYActionBlock.h>
-#import <EarlGrey/GREYActions.h>
-#import <EarlGrey/GREYAllOf.h>
-#import <EarlGrey/GREYAnyOf.h>
-#import <EarlGrey/GREYAssertion.h>
-#import <EarlGrey/GREYAssertionBlock.h>
-#import <EarlGrey/GREYAssertionDefines.h>
-#import <EarlGrey/GREYAssertions.h>
-#import <EarlGrey/GREYBaseAction.h>
-#import <EarlGrey/GREYBaseMatcher.h>
-#import <EarlGrey/GREYCondition.h>
-#import <EarlGrey/GREYConfiguration.h>
-#import <EarlGrey/GREYConstants.h>
-#import <EarlGrey/GREYDataEnumerator.h>
-#import <EarlGrey/GREYDefines.h>
-#import <EarlGrey/GREYDescription.h>
-#import <EarlGrey/GREYDispatchQueueIdlingResource.h>
-#import <EarlGrey/GREYElementFinder.h>
-#import <EarlGrey/GREYElementHierarchy.h>
-#import <EarlGrey/GREYElementInteraction.h>
-#import <EarlGrey/GREYElementMatcherBlock.h>
-#import <EarlGrey/GREYFailureHandler.h>
-#import <EarlGrey/GREYFrameworkException.h>
-#import <EarlGrey/GREYIdlingResource.h>
-#import <EarlGrey/GREYInteraction.h>
-#import <EarlGrey/GREYLayoutConstraint.h>
-#import <EarlGrey/GREYManagedObjectContextIdlingResource.h>
-#import <EarlGrey/GREYMatcher.h>
-#import <EarlGrey/GREYMatchers.h>
-#import <EarlGrey/GREYNSTimerIdlingResource.h>
-#import <EarlGrey/GREYNot.h>
-#import <EarlGrey/GREYOperationQueueIdlingResource.h>
-#import <EarlGrey/GREYProvider.h>
-#import <EarlGrey/GREYScreenshotUtil.h>
-#import <EarlGrey/GREYScrollActionError.h>
-#import <EarlGrey/GREYSyncAPI.h>
-#import <EarlGrey/GREYTestHelper.h>
-#import <EarlGrey/GREYUIThreadExecutor.h>
+#import "GREYAction.h"
+#import "GREYActionBlock.h"
+#import "GREYActions.h"
+#import "GREYAllOf.h"
+#import "GREYAnyOf.h"
+#import "GREYAssertion.h"
+#import "GREYAssertionBlock.h"
+#import "GREYAssertionDefines.h"
+#import "GREYAssertions.h"
+#import "GREYBaseAction.h"
+#import "GREYBaseMatcher.h"
+#import "GREYCondition.h"
+#import "GREYConfiguration.h"
+#import "GREYConstants.h"
+#import "GREYDataEnumerator.h"
+#import "GREYDefines.h"
+#import "GREYDescription.h"
+#import "GREYDispatchQueueIdlingResource.h"
+#import "GREYElementFinder.h"
+#import "GREYElementHierarchy.h"
+#import "GREYElementInteraction.h"
+#import "GREYElementMatcherBlock.h"
+#import "GREYFailureHandler.h"
+#import "GREYFrameworkException.h"
+#import "GREYIdlingResource.h"
+#import "GREYInteraction.h"
+#import "GREYLayoutConstraint.h"
+#import "GREYManagedObjectContextIdlingResource.h"
+#import "GREYMatcher.h"
+#import "GREYMatchers.h"
+#import "GREYNSTimerIdlingResource.h"
+#import "GREYNot.h"
+#import "GREYOperationQueueIdlingResource.h"
+#import "GREYProvider.h"
+#import "GREYScreenshotUtil.h"
+#import "GREYScrollActionError.h"
+#import "GREYSyncAPI.h"
+#import "GREYTestHelper.h"
+#import "GREYUIThreadExecutor.h"
 #import <Foundation/Foundation.h>
 
 /**

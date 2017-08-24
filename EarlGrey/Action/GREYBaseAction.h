@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYAction.h>
+#import "GREYAction.h"
 
 @protocol GREYMatcher;
 

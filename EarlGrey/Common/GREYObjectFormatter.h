@@ -16,7 +16,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <EarlGrey/GREYDefines.h>
+#import "GREYDefines.h"
 
 /**
  *  Indent when perform object formation.

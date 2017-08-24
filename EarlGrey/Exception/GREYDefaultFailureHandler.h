@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYFailureHandler.h>
+#import "GREYFailureHandler.h"
 
 /**
  *  Failure handler that prints formatted exceptions and stack traces on failure,

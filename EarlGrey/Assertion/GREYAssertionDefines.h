@@ -24,11 +24,11 @@
 #ifndef GREY_ASSERTION_DEFINES_H
 #define GREY_ASSERTION_DEFINES_H
 
-#import <EarlGrey/GREYConfiguration.h>
-#import <EarlGrey/GREYDefines.h>
-#import <EarlGrey/GREYFailureHandler.h>
-#import <EarlGrey/GREYFrameworkException.h>
-#import <EarlGrey/GREYUIThreadExecutor.h>
+#import "GREYConfiguration.h"
+#import "GREYDefines.h"
+#import "GREYFailureHandler.h"
+#import "GREYFrameworkException.h"
+#import "GREYUIThreadExecutor.h"
 
 /**
  *  Exposes internal method to get the failure handler registered with EarlGrey.

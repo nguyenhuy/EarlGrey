@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYIdlingResource.h>
+#import "GREYIdlingResource.h"
 
 /**
  *  An idling resource that changes to busy state for a specified amount of time.

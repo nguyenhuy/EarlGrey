@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYIdlingResource.h>
+#import "GREYIdlingResource.h"
 
 /**
  *  Idling resource that tracks blocks sent to a dispatch queue.

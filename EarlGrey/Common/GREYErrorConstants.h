@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYDefines.h>
+#import "GREYDefines.h"
 
 /**
  *  Extern variables specifying the error keys for a base action.

@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYBaseMatcher.h>
+#import "GREYBaseMatcher.h"
 
 /**
  *  A block for implementing GREYBaseMatcher::matches:.

@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYMatcher.h>
+#import "GREYMatcher.h"
 
 /**
  *  A class to transform an OCHamcrest matcher and into a GREYMatcher instance.

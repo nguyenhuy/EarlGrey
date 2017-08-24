@@ -20,7 +20,7 @@
  *  for testing purposes.
  */
 
-#import <EarlGrey/GREYScreenshotUtil.h>
+#import "GREYScreenshotUtil.h"
 
 @interface GREYScreenshotUtil (Internal)
 

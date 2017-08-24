@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYIdlingResource.h>
+#import "GREYIdlingResource.h"
 #import <Foundation/Foundation.h>
 
 @class GREYAppStateTrackerObject;

@@ -14,8 +14,8 @@
 // limitations under the License.
 //
 
-#import <EarlGrey/GREYBaseAction.h>
-#import <EarlGrey/GREYConstants.h>
+#import "GREYBaseAction.h"
+#import "GREYConstants.h"
 
 /**
  *  A GREYAction that swipes/flicks with multiple touches
