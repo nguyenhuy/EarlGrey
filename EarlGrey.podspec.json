@@ -19,6 +19,7 @@
     "http": "https://www.github.com/google/EarlGrey/releases/download/1.12.0/EarlGrey.zip"
   },
   "module_name": "EarlGrey",
+  "header_dir": "EarlGrey",
   "frameworks": [
     "CoreData",
     "CoreFoundation",
