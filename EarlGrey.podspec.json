@@ -45,7 +45,7 @@
     "EarlGrey/**/*.h",
   ],
   "source_files": [
-    "EarlGrey/**/*.{h,m,mm}",
+    "EarlGrey/**/*.{h,m}",
   ],
   "dependencies": {
     "OCHamcrest": [
