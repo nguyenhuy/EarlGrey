@@ -41,6 +41,12 @@
     "ENABLE_BITCODE": "NO",
     "OTHER_CFLAGS": "-fobjc-arc-exceptions"
   },
+  "public_header_files": [
+    "EarlGrey/**/*.h",
+  ],
+  "source_files": [
+    "EarlGrey/**/*.{h,m,mm}",
+  ],
   "dependencies": {
     "OCHamcrest": [
       "7.1.0"
