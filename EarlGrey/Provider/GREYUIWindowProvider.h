@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYProvider.h"
+#import <EarlGrey/GREYProvider.h>
 
 /**
  *  A provider for UIApplication windows. By default, all application windows are returned unless

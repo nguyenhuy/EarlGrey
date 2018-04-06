@@ -20,7 +20,7 @@
  *  testing purposes.
  */
 
-#import "GREYAssertions.h"
+#import <EarlGrey/GREYAssertions.h>
 
 @class GREYError;
 @protocol GREYAssertion;

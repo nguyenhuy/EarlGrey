@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYIdlingResource.h"
+#import <EarlGrey/GREYIdlingResource.h>
 
 /**
  *  An idling resource to track NSTimer firing events so that the framework can synchronize

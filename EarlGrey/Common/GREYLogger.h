@@ -19,7 +19,7 @@
  *  @brief Macro for printing more logs for aiding in debugging.
  */
 
-#import "GREYConstants.h"
+#import <EarlGrey/GREYConstants.h>
 
 /**
  *  Prints a log statement if @c kGREYAllowVerboseLogging is present and turned to @c YES in

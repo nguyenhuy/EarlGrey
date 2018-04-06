@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYDefines.h"
+#import <EarlGrey/GREYDefines.h>
 #import <UIKit/UIKit.h>
 
 #pragma mark - Error domain and codes

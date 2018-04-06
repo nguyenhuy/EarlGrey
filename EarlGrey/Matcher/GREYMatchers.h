@@ -15,8 +15,8 @@
 //
 
 #import <CoreGraphics/CoreGraphics.h>
-#import "GREYConstants.h"
-#import "GREYDefines.h"
+#import <EarlGrey/GREYConstants.h>
+#import <EarlGrey/GREYDefines.h>
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN

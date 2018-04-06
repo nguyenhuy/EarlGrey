@@ -21,7 +21,7 @@
  *         changes in the configuration until the values are re-read.
  */
 
-#import "GREYDefines.h"
+#import <EarlGrey/GREYDefines.h>
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN

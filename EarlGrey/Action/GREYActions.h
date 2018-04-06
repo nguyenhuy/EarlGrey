@@ -14,8 +14,8 @@
 // limitations under the License.
 //
 
-#import "GREYConstants.h"
-#import "GREYDefines.h"
+#import <EarlGrey/GREYConstants.h>
+#import <EarlGrey/GREYDefines.h>
 #import <Foundation/Foundation.h>
 
 @protocol GREYAction;

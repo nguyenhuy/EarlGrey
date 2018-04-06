@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYDescription.h"
+#import <EarlGrey/GREYDescription.h>
 #import <Foundation/Foundation.h>
 
 /**

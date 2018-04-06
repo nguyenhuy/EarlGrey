@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYAssertion.h"
+#import <EarlGrey/GREYAssertion.h>
 
 /**
  *  A block that accepts an @c element, which will be invoked when an assertion is going to be

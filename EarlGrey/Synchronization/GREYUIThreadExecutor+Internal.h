@@ -20,7 +20,7 @@
  *         testing purposes.
  */
 
-#import "GREYUIThreadExecutor.h"
+#import <EarlGrey/GREYUIThreadExecutor.h>
 
 @protocol GREYIdlingResource;
 

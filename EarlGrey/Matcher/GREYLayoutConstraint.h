@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYConstants.h"
+#import <EarlGrey/GREYConstants.h>
 
 /**
  *  Modeled after NSLayoutConstraint, this class captures information related to a layout

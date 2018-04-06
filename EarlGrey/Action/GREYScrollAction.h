@@ -14,8 +14,8 @@
 // limitations under the License.
 //
 
-#import "GREYBaseAction.h"
-#import "GREYConstants.h"
+#import <EarlGrey/GREYBaseAction.h>
+#import <EarlGrey/GREYConstants.h>
 
 /**
  *  A GREYAction that implements the scroll action.

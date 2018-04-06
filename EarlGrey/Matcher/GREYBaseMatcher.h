@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYMatcher.h"
+#import <EarlGrey/GREYMatcher.h>
 #import <Foundation/Foundation.h>
 
 /**

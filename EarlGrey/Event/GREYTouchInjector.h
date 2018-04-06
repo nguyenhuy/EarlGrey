@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYDefines.h"
+#import <EarlGrey/GREYDefines.h>
 #import "GREYTouchInfo.h"
 
 /**

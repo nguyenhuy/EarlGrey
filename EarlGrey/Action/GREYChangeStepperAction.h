@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYBaseAction.h"
+#import <EarlGrey/GREYBaseAction.h>
 
 /**
  *  Actions for manipulating UIStepper.

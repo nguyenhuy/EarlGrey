@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYBaseAction.h"
+#import <EarlGrey/GREYBaseAction.h>
 
 /**
  *  A GREYAction that changes the value on a UISlider.

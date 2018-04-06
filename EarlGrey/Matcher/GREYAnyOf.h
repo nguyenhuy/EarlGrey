@@ -14,8 +14,8 @@
 // limitations under the License.
 //
 
-#import "GREYBaseMatcher.h"
-#import "GREYDefines.h"
+#import <EarlGrey/GREYBaseMatcher.h>
+#import <EarlGrey/GREYDefines.h>
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN

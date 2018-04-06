@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYIdlingResource.h"
+#import <EarlGrey/GREYIdlingResource.h>
 
 /**
  *  Idling resource that monitors operation queues.

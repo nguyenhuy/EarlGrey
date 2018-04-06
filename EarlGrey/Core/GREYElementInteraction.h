@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYInteraction.h"
+#import <EarlGrey/GREYInteraction.h>
 
 /**
  *  Interface for creating an interaction with a UI element. If no datasource is set,

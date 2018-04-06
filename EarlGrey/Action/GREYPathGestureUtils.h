@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "GREYConstants.h"
+#import <EarlGrey/GREYConstants.h>
 #import <UIKit/UIKit.h>
 
 /**
