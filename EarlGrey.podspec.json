@@ -40,5 +40,13 @@
     "FRAMEWORK_SEARCH_PATHS": "$(inherited) $(PLATFORM_DIR)/Developer/Library/Frameworks",
     "ENABLE_BITCODE": "NO",
     "OTHER_CFLAGS": "-fobjc-arc-exceptions"
+  },
+  "dependencies": {
+    "OCHamcrest": [
+      "7.1.0"
+    ],
+    "fishhook": [
+      "0.2"
+    ],
   }
 }
