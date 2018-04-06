@@ -33,9 +33,6 @@
     "EarlGrey/LICENSE",
     "EarlGrey/README.md"
   ],
-  "ios": {
-    "vendored_frameworks": "EarlGrey/EarlGrey.framework"
-  },
   "pod_target_xcconfig": {
     "FRAMEWORK_SEARCH_PATHS": "$(inherited) $(PLATFORM_DIR)/Developer/Library/Frameworks",
     "ENABLE_BITCODE": "NO",
